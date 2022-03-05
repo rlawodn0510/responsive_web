@@ -35,6 +35,16 @@ color:#fff;
 background:transparent;
 }
 
+a1{
+    margin:0;
+    padding:0;
+    font-size:120%;
+    text-decoration:none;
+    vertical-align:baseline;
+    color:rgb(68, 15, 15);
+    background:transparent;
+    }
+
 img{
 vertical-align:top;
 }
